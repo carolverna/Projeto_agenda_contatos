@@ -25,6 +25,7 @@ Vercel (deploy)
 **🌐 Projeto publicado**
 
 Acesse a aplicação em funcionamento pelo link abaixo:
+
 👉 https://projeto-agenda-contatos-dun.vercel.app/
 
 **📌 Objetivo**
